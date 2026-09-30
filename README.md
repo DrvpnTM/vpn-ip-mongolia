@@ -1,18 +1,17 @@
-# VPN IP Mongolia — Dr VPN
+# VPN IP Mongolia — Fast, Secure VPN for Mongolia
 
-**VPN IP Mongolia** is a fast, secure and free VPN for Android. Get a **Mongolia IP address**, unblock websites and apps, and protect your privacy on public Wi-Fi.
+**VPN IP Mongolia** is a free, open-source, ad-free VPN app for Android, built for users in Mongolia. It unblocks websites and apps, protects your privacy on public Wi-Fi, and gives you a fast, stable connection.
 
 ## Download
-- 📥 [Download VPN IP Mongolia (APK)](https://github.com/DrvpnTM/app/releases/download/countries-v0.1.4/DrVPN_mn_0.1.4_universal.apk)
-- 🌐 Website: [drvpn.net](https://drvpn.net)
-- 📢 Telegram: [@drVPN_net](https://t.me/drVPN_net)
+➡️ [Download the latest APK](https://github.com/DrvpnTM/vpn-ip-mongolia/releases/latest)
 
 ## Features
-- One-tap connect, automatic fastest-server selection
-- Mongolia IP address and servers in many other countries
-- VLESS, VMess, Trojan, Shadowsocks, Hysteria2, WireGuard
-- Works under heavy internet restrictions
-- Free and open source
+- One-tap connect, automatic server speed test
+- VLESS, VMess, Reality, Trojan, Shadowsocks, Hysteria2, WireGuard
+- Per-app proxy, routing rules, dark mode
+- Automatic updates
 
-## Keywords
-VPN Mongolia, Mongolia VPN, VPN IP Mongolia, Mongolia IP address, free VPN Mongolia, buy VPN Mongolia, fast VPN Mongolia, Dr VPN
+## Get a subscription
+🌐 [drvpn.net](https://drvpn.net/) · 📢 [Telegram @drVPN_net](https://t.me/drVPN_net)
+
+<sub>Keywords: VPN Mongolia, free VPN Mongolia, fast VPN, VPN IP Mongolia, Android VPN, unblock websites Mongolia.</sub>
